@@ -1,0 +1,23 @@
+{
+  "name": "table-app",
+  "version": "1.0.0",
+  "description": "Reserve your table today",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KC135Q/table-app.git"
+  },
+  "author": "Daniel Kaltenbaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KC135Q/table-app/issues"
+  },
+  "homepage": "https://github.com/KC135Q/table-app#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
